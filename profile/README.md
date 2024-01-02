@@ -1,41 +1,30 @@
-# Silly Machine - Combating Social Injustice with Natural Language Processing and AI
+# Silly Machine: Advancing Social Justice through Natural Language Processing and Artificial Intelligence
 
 ## Overview
+Welcome to the repository of Silly Machine, a non-profit organization established by Brazilian researchers. Our organization is dedicated to harnessing the capabilities of Natural Language Processing (NLP) and Artificial Intelligence (AI) to combat social injustice. This repository encompasses the source code, data, and documentation pertaining to our projects, which are designed to tackle pressing societal challenges by utilizing state-of-the-art technology.
 
-Welcome to the Silly Machine organization's GitHub repository! Silly Machine is a non-profit organization founded by Brazilian researchers dedicated to leveraging Natural Language Processing (NLP) and Artificial Intelligence (AI) to combat social injustice. This repository contains the source code, data, and documentation related to our projects aimed at addressing critical societal issues using cutting-edge technology.
+# Projects - Collections 
+Silly Machine is driven by a mission to utilize AI and NLP as catalysts for positive social change. We firmly believe in the transformative potential of technology as a force for good. Our commitment lies in addressing issues associated with social injustice, inequality, and discrimination through the development of innovative applications within the realm of AI and NLP.
 
-## Mission
+### 1. Hate Speech Datasets
 
-Silly Machine's mission is to harness the power of AI and NLP to drive positive social change. We believe that technology can be a force for good, and we are committed to addressing issues related to social injustice, inequality, and discrimination through innovative applications of AI and NLP.
+**Description:** The Portuguese hate speech dataset collection is a set of annotated corpora designed to facilitate the development of advanced hate speech detection models using machine learning (ML) and natural language processing (NLP) techniques.
 
-## Projects
+**Repositorys:**
+- [Portuguese Hate Speech Dataset (TuPY)](https://huggingface.co/datasets/Silly-Machine/TuPy-Dataset)
+- [Extended Portuguese Hate Speech Dataset (TuPY-E)](https://huggingface.co/datasets/Silly-Machine/TuPyE-Dataset)
 
-### 1. Portuguese Hate Speech Dataset (TuPI)
+### 2. Hate Speech Classfiers
 
-- **Description:** The Portuguese hate speech dataset (TuPI) is an annotated corpus designed to facilitate the development of advanced hate speech detection models using machine learning (ML) and natural language processing (NLP) techniques.
+**Description:** The Portuguese hate speech classifiers collection is a set of advanced hate speech detection models using machine learning (ML) and natural language processing (NLP), designed for portuguese hate speech classifcation
 
-- **Repository:** [Portuguese Hate Speech Dataset (TuPI)](https://github.com/Silly-Machine/TuPi-Portuguese-Hate-Speech-Dataset)
+**Repositorys:**
+- [TuPy-Bert-Large-Binary-Classifier](https://huggingface.co/Silly-Machine/TuPy-Bert-Large-Binary-Classifier)  
+- [TuPy-Bert-Base-Binary-Classifier](https://huggingface.co/Silly-Machine/TuPy-Bert-Base-Binary-Classifier)
+- [TuPy-Bert-Large-Multilabel](https://huggingface.co/Silly-Machine/TuPy-Bert-Large-Multilabel)
+- [TuPy-Bert-Base-Multilabel](https://huggingface.co/Silly-Machine/TuPy-Bert-Base-Multilabel)
 
-## Getting Started
-
-To get started with our projects, please follow these steps:
-
-1. Clone the repository of the project you are interested in.
-2. Read the project's README and documentation to understand the goals, requirements, and setup instructions.
-3. Contribute to the project by opening issues, submitting pull requests, or engaging in discussions.
-
-## How to Contribute
-
-We welcome contributions from the community to help us achieve our mission. To contribute, please follow these guidelines:
-
-1. Fork the project repository to your GitHub account.
-2. Create a new branch for your work.
-3. Make your changes and commit them with descriptive messages.
-4. Push your changes to your branch on GitHub.
-5. Open a pull request to the Silly Machine repository, describing the changes you've made.
-
-
-## License
+# License
 
 All projects under the Silly Machine organization are open-source and licensed under the [MIT License](LICENSE). You are encouraged to use, modify, and distribute our code in accordance with this license.
 
