@@ -3,7 +3,7 @@
 ## Overview
 Welcome to the repository of Silly Machine, a non-profit organization established by Brazilian researchers. Our organization is dedicated to harnessing the capabilities of Natural Language Processing (NLP) and Artificial Intelligence (AI) to combat social injustice. This repository encompasses the source code, data, and documentation pertaining to our projects, which are designed to tackle pressing societal challenges by utilizing state-of-the-art technology.You can visit our  page on [Hugging Face](https://huggingface.co/Silly-Machine)  as well. Feel free to explore!
 ## TuPy Project 
-The Tupy project, spearheaded by [Felkipe Oliveira](https://github.com/FelipeRamosOliveira), aims to develop machine learning models specifically designed to identify hate speech in Portuguese. These models are trained using data sourced from social networks, focusing on addressing the challenges posed by virtual violence.The TuPy project contains the following repository:
+The Tupy project, spearheaded by [Felkipe Oliveira](https://github.com/FelipeRamosOliveira), aims to develop machine learning models specifically designed to identify hate speech in Portuguese. These models are trained using data sourced from social networks, focusing on addressing the challenges posed by virtual violence.The TuPy project contains the following repositories:
 * [TuPy-Brazilian-Hate-Speech-Dataset](https://github.com/Silly-Machine/TuPy-Brazilian-Hate-Speech-Dataset)
 * [TuPyE-Expanded-Brazilian-Hate-Speech-Dataset](https://github.com/Silly-Machine/TuPyE-Expanded-Brazilian-Hate-Speech-Dataset)
 * [TuPy-Model-Refinement](https://github.com/Silly-Machine/TuPy-Model-Refinement)
