@@ -3,27 +3,14 @@
 ## Overview
 Welcome to the repository of Silly Machine, a non-profit organization established by Brazilian researchers. Our organization is dedicated to harnessing the capabilities of Natural Language Processing (NLP) and Artificial Intelligence (AI) to combat social injustice. This repository encompasses the source code, data, and documentation pertaining to our projects, which are designed to tackle pressing societal challenges by utilizing state-of-the-art technology.
 
-# Projects - Collections 
-Silly Machine is driven by a mission to utilize AI and NLP as catalysts for positive social change. We firmly believe in the transformative potential of technology as a force for good. Our commitment lies in addressing issues associated with social injustice, inequality, and discrimination through the development of innovative applications within the realm of AI and NLP.
+# TuPy Project 
+The Tupy project, spearheaded by [Felkipe Oliveira](https://github.com/FelipeRamosOliveira), aims to develop machine learning models specifically designed to identify hate speech in Portuguese. These models are trained using data sourced from social networks, focusing on addressing the challenges posed by virtual violence.The TuPy project contains the following repository:
+* [TuPy-Brazilian-Hate-Speech-Dataset](https://github.com/Silly-Machine/TuPy-Brazilian-Hate-Speech-Dataset)
+* [TuPyE-Expanded-Brazilian-Hate-Speech-Dataset](https://github.com/Silly-Machine/TuPyE-Expanded-Brazilian-Hate-Speech-Dataset)
+* [TuPy-Model-Refinement](https://github.com/Silly-Machine/TuPy-Model-Refinement)
+* [TuPy-Data-Engineering](https://github.com/Silly-Machine/TuPy-Data-Engineering)
 
-### 1. Hate Speech Datasets
-
-**Description:** The Portuguese hate speech dataset collection is a set of annotated corpora designed to facilitate the development of advanced hate speech detection models using machine learning (ML) and natural language processing (NLP) techniques.
-
-**Repositorys:**
-- [Portuguese Hate Speech Dataset (TuPY)](https://huggingface.co/datasets/Silly-Machine/TuPy-Dataset)
-- [Extended Portuguese Hate Speech Dataset (TuPY-E)](https://huggingface.co/datasets/Silly-Machine/TuPyE-Dataset)
-
-### 2. Hate Speech Classfiers
-
-**Description:** The Portuguese hate speech classifiers collection is a set of advanced hate speech detection models using machine learning (ML) and natural language processing (NLP), designed for portuguese hate speech classifcation
-
-**Repositorys:**
-- [TuPy-Bert-Large-Binary-Classifier](https://huggingface.co/Silly-Machine/TuPy-Bert-Large-Binary-Classifier)  
-- [TuPy-Bert-Base-Binary-Classifier](https://huggingface.co/Silly-Machine/TuPy-Bert-Base-Binary-Classifier)
-- [TuPy-Bert-Large-Multilabel](https://huggingface.co/Silly-Machine/TuPy-Bert-Large-Multilabel)
-- [TuPy-Bert-Base-Multilabel](https://huggingface.co/Silly-Machine/TuPy-Bert-Base-Multilabel)
-
+The TuPy project is the result of the development of Felipe Oliveira's thesis and the work of several collaborators. This project is financed by the Federal University of Rio de Janeiro (UFRJ) and the Alberto Luiz Coimbra Institute for Postgraduate Studies and Research in Engineering (COPPE).
 # License
 
 All projects under the Silly Machine organization are open-source and licensed under the [MIT License](LICENSE). You are encouraged to use, modify, and distribute our code in accordance with this license.
