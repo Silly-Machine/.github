@@ -10,7 +10,7 @@ The Tupy project, spearheaded by [Felkipe Oliveira](https://github.com/FelipeRam
 * [TuPy-Data-Engineering](https://github.com/Silly-Machine/TuPy-Data-Engineering)
 
 
-TuPy is the culmination of collaborative and diverse efforts. In gratitude, I extend this note, acknowledging the contributions of all involved, even those unfamiliar with GitHub. This project receives support from the [Federal University of Rio de Janeiro (UFRJ)](https://ufrj.br/) through the [Alberto Luiz Coimbra Institute for Postgraduate Studies and Research in Engineering (COPPE)](https://coppe.ufrj.br/).
+TuPy is the culmination of collaborative and diverse efforts. In gratitude, I extend this note, acknowledging the contributions of all involved, even those unfamiliar with GitHub. This project receives support from the Federal University of Rio de Janeiro ([UFRJ](https://ufrj.br/)) through the Alberto Luiz Coimbra Institute for Postgraduate Studies and Research in Engineering ([COPPE](https://coppe.ufrj.br/)).
 
 
 ## License
