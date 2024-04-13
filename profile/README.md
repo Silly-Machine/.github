@@ -10,7 +10,8 @@ The Tupy project, spearheaded by [Felkipe Oliveira](https://github.com/FelipeRam
 * [TuPy-Data-Engineering](https://github.com/Silly-Machine/TuPy-Data-Engineering)
 
 
-The TuPy project is the result of the development of Felipe Oliveira's thesis and the work of several collaborators. This project is financed by the Federal University of Rio de Janeiro (UFRJ) and the Alberto Luiz Coimbra Institute for Postgraduate Studies and Research in Engineering (COPPE).
+TuPy is the culmination of collaborative and diverse efforts. In gratitude, I extend this note, acknowledging the contributions of all involved, even those unfamiliar with GitHub. This project receives support from the [Federal University of Rio de Janeiro (UFRJ)](https://ufrj.br/) through the [Alberto Luiz Coimbra Institute for Postgraduate Studies and Research in Engineering (COPPE)](https://coppe.ufrj.br/).
+
 
 ## License
 All projects under the Silly Machine organization are open-source and licensed under the [MIT License](LICENSE). You are encouraged to use, modify, and distribute our code in accordance with this license.
